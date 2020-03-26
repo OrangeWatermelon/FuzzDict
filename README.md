@@ -9,3 +9,5 @@
 # Contact: 
 QQ: 320284563
 Email: ifonly_go2019@163.com or ifonlysec@gmail.com
+# 发现了一个fuzzdb , 里面东西不错,且比较全
+https://github.com/fuzzdb-project/fuzzdb

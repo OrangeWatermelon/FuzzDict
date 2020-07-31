@@ -1,6 +1,9 @@
 # Fuzz-test-BruteForce-dictionary
 一些平时自己整理的fuzz字典和爆破字典
 # 文件上传后缀fuzz
+推荐使用下面这个工具来fuzz
+https://github.com/c0ny1/upload-fuzz-dic-builder
+
 # SQL 注入关键字fuzz
 # 后台爆破字典
 # 会不定期更新
